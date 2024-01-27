@@ -1,4 +1,3 @@
-Talent Standard Task Code Repository
 Welcome to the Job Junction projectCode Repository. This project serves as a platform for job hunters and employers built using  ReactJS, C# Web API, and MongoDB in Talent Code Architecture. Below is the documentation to help you get started and explore the different modules.
 
 Standard Tasks
